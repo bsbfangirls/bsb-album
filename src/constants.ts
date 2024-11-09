@@ -5,41 +5,37 @@ export const LABEL_LIMIT = 1;
 export const LABELS: Label[] = [
   {
     rkey: 'insert-rkey-here',
-    identifier: 'earth',
+    identifier: 'RedBSB',
     locales: [
-      { lang: 'en', name: 'Earth 🌎', description: 'Earth'},
-      { lang: 'pt-BR', name: 'Terra 🌎', description: 'Terra'},
+      { lang: 'en', name: 'Red-BSB 🔴', description: 'Red Backstreet Boys'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
-    identifier: 'fire',
+    identifier: 'BSBBack',
     locales: [
-      { lang: 'en', name: 'Fire 🔥', description: 'Fire'},
-      { lang: 'pt-BR', name: 'Fogo 🔥', description: 'Fogo'},
+      { lang: 'en', name: 'Backstreets Back 💙', description: 'Backstreets Back'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
-    identifier: 'air',
+    identifier: 'BSB',
     locales: [
-      { lang: 'en', name: 'Air 💨', description: 'Air'},
-      { lang: 'pt-BR', name: 'Ar 💨', description: 'Ar'},
+      { lang: 'en', name: 'Blue-BSB 💙', description: 'Blue Backstreet Boys'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
-    identifier: 'water',
+    identifier: 'Millennium',
     locales: [
-      { lang: 'en', name: 'Water 💧', description: 'Water'},
-      { lang: 'pt-BR', name: 'Água 💧', description: 'Água'},
+      { lang: 'en', name: 'Millennium 🩵', description: 'Millennium'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
-    identifier: 'love',
+    identifier: 'BlackBlue',
     locales: [
-      { lang: 'en', name: 'Love 💞', description: 'Love'},
+      { lang: 'en', name: 'Blacka nd Blue 💞', description: 'Black and Blue'},
       { lang: 'pt-BR', name: 'Amor 💞', description: 'Amor'},
     ]
   },
